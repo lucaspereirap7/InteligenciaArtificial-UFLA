@@ -1,0 +1,19 @@
+# Arquivos gerados pelo projeto
+*.png
+*.txt
+
+# Pasta de resultados
+resultados/
+
+# Arquivos do Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Ambientes virtuais
+venv/
+.env/
+env/
+
+# Configurações do VS Code
+.vscode/
