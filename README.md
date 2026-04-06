@@ -37,3 +37,7 @@ Após a execução, o projeto gera automaticamente na pasta raiz:
 *   A implementação manual atingiu resultados de acurácia equivalentes aos da biblioteca oficial, validando a lógica de cálculo de distâncias.
 *   O Scikit-Learn apresentou maior eficiência em tempo de execução devido às otimizações internas da biblioteca.
 *   As matrizes de confusão demonstram que o modelo classifica com alta precisão as três espécies de Iris, com pequenas variações apenas nas zonas de fronteira entre Versicolor e Virginica.
+
+## Link Apresentação Youtube
+
+- https://youtu.be/MNRJKNBf8zM
